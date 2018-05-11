@@ -1,1 +1,1 @@
-install.packages(c("readr"))
+install.packages(c("readr", "dplyr", "rattle"))
