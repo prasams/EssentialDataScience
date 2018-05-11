@@ -1,1 +1,1 @@
-install.packages("rattle")
+install.packages("rattle", dependencies=TRUE)
