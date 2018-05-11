@@ -1,1 +1,1 @@
-install.packages(c("rattle", "ggplot2"))
+install.packages(c("readr"))
