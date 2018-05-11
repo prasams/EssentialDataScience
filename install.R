@@ -1,1 +1,1 @@
-install.packages("rattle")
+install.packages("rattle", repos="https://rattle.togaware.com", type="source")
