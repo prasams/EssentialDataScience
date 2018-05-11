@@ -1,1 +1,1 @@
-install.packages("rattle", repos="https://rattle.togaware.com", type="source")
+install.packages(c("rattle", "ggplot2"))
